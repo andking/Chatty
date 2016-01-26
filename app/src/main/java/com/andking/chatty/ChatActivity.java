@@ -39,6 +39,7 @@ import com.andking.chatty.utils.Const;
 public class ChatActivity extends BaseActivity
 {
 
+
 	/** The Conversation list. */
 	private ArrayList<Conversation> convList;
 	//private ArrayList<ParseObject> msgList;
